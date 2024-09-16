@@ -1,0 +1,22 @@
+Top 3 results for query 'streaming issues':
+Rank 1: Document 3 with score 0.2198
+Rank 2: Document 5 with score 0.0172
+Rank 3: Document 7 with score 0.0118
+
+
+Top 3 results for query 'Call of Duty':
+Rank 1: Document 10 with score 0.0937
+Rank 2: Document 1 with score 0.0582
+Rank 3: Document 2 with score 0.0210
+
+
+Top 3 results for query 'cancellation fee':
+Rank 1: Document 9 with score 0.2361
+Rank 2: Document 1 with score 0.0000
+Rank 3: Document 2 with score 0.0000
+
+
+Top 3 results for query 'binge-watching sessions':
+Rank 1: Document 8 with score 0.1106
+Rank 2: Document 1 with score 0.0000
+Rank 3: Document 2 with score 0.0000
